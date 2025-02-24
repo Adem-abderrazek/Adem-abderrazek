@@ -1,3 +1,9 @@
+![](https://github-readme-stats.vercel.app/api?username=Adem-abderrazek&theme=dark&hide_border=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adem-abderrazek&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adem-abderrazek&theme=dark&layout=compact)
+
 # 💫 About Me:
 Hi, I'm Adem Abderrazek! 🚀<br>I'm a passionate full-stack developer specializing in TypeScript, React, and React Native. Currently, I'm working on an AI-powered platform .<br><br>💻 What I Do<br>🛒 AI for eCommerce – Developing smart item recommendations based on stock data.<br>🚌  Tracker – Building a React Native app (with Expo) for real-time location sharing.<br>🌐 Web Development – Creating dynamic and responsive web applications.<br>⚡ Tech Stack<br>Frontend: React, React Native (Expo), TypeScript<br>Backend: Node.js, Express.js, Firebase, ORMS<br>AI & Data: Python,  OpenAI APIs<br>📫 Get in Touch<br>GitHub: github.com/Adem-abderrazek<br>LinkedIn: https://www.linkedin.com/in/adem-abderrazak-61a2552bb/<br>Email: adem11.abderrazek@gmail.com
 
